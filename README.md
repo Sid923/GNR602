@@ -24,6 +24,7 @@ The following libraries are required to implement PCA for Multi-Temporal Satelli
 - Tkinter
 - customtkinter
 - PIL
+- MatplotLib
 
 ## Implementation
 
@@ -40,5 +41,5 @@ The following libraries are required to implement PCA for Multi-Temporal Satelli
 6. The changed part is assigned the bright(255) pixel and the unchanged part is assigned the dark values(0).
 
 
-## Conclusion
+
 
