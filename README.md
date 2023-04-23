@@ -1,4 +1,22 @@
-
+``` bash
+Directory
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── setup.py
+├── build
+│   └──exe.win-amd64-3.9
+│      ├── frozen_application_license.txt
+│      ├── python3.dll
+│      ├── python39.dll
+│      ├── simple.exe
+│      └── lib
+├── Input Image
+│   ├── Andasol_09051987_md.jpg
+│   └── Andasol_09122013_md.jpg
+└── Output Image
+    └── changed.jpg
+```
 
 # Principal Component Analysis (PCA) for Multi-Temporal Satellite Image Change Detection
 
